@@ -1,0 +1,32 @@
+{
+    "ok": true,
+    "msg": null,
+    "data": {
+        "titleCount": [
+            {
+                "enterpriseCount": 9,
+                "publish": 8,
+                "unPublish": 1
+            }
+        ],
+        "row": [
+            {
+                "id": 128,
+                "name": "好肉土鸡养殖厂"
+            },
+            {
+                "id": 127,
+                "name": "好肉土家猪养殖厂"
+            },
+            {
+                "id": 126,
+                "name": "天津雀巢有限公司"
+            },
+            {
+                "id": 115,
+                "name": "佛山市南海区九江镇净蓝污水处理有限公司"
+            }
+        ]
+    },
+    "errors": {}
+}
